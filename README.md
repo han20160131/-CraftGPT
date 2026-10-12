@@ -9,3 +9,11 @@
   <a href="https://aistudio.google.com/apps">Start building</a>
 
 </div>
+
+---
+
+## Minecraft AI Studio
+
+本 repository 目前用於整理 Minecraft AI Studio 的產品想法、介面規格與後續開發決策。專案仍處於規劃階段，文件不代表功能已完成。
+
+- [產品方向與介面規格](docs/MINECRAFT_AI_STUDIO_SPEC.md)
